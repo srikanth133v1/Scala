@@ -1,3 +1,3 @@
 # Scala
 
-Scala Examples on Pluralsight Lamba Architecture with Apache Spark, Scala, Cassandra, Kafka
+Practicing Applying Pluralsight Lamba Architecture with Apache Spark, Scala, Cassandra, Kafka course using Scala
